@@ -40,3 +40,7 @@ else {
 if key = 5{
 	room_goto_next()	
 }
+
+if global.life <1 {
+	game_restart();
+}

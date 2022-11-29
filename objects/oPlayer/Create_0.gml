@@ -10,3 +10,7 @@ velocidadePulo = 9;
 
 // Item
 key = 0;
+
+// Vida
+global.life = 4;
+	

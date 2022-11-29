@@ -636,6 +636,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_B01CF58","properties":[],"isDnd":false,"objectId":{"name":"oSerra","path":"objects/oSerra/oSerra.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1088.0,"y":608.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2F4851F9","properties":[],"isDnd":false,"objectId":{"name":"oSerra","path":"objects/oSerra/oSerra.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1248.0,"y":672.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_78EE6698","properties":[],"isDnd":false,"objectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":96.0,"y":704.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_405D77CD","properties":[],"isDnd":false,"objectId":{"name":"obj_life","path":"objects/obj_life/obj_life.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":32.0,},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],},
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Colisores","instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7417E145_1","properties":[],"isDnd":false,"objectId":{"name":"oSolo","path":"objects/oSolo/oSolo.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":45.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":736.0,},
@@ -1320,6 +1321,7 @@
     {"name":"inst_B01CF58","path":"rooms/Ambiente3/Ambiente3.yy",},
     {"name":"inst_2F4851F9","path":"rooms/Ambiente3/Ambiente3.yy",},
     {"name":"inst_78EE6698","path":"rooms/Ambiente3/Ambiente3.yy",},
+    {"name":"inst_405D77CD","path":"rooms/Ambiente3/Ambiente3.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
